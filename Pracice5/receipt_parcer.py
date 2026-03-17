@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 
-RAW_PATH = "/mnt/data/raw.txt"
+RAW_PATH = "raw.txt"
 
 
 def parse_money(s: str) -> float:
