@@ -1,0 +1,45 @@
+[
+    {
+        "first_name": "Nurasyl",
+        "last_name": "Omirzak",
+        "email": "nurasyl@example.com",
+        "birthday": "2006-01-01",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87771234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "j.doe@work.com",
+        "birthday": "1995-05-15",
+        "group": "VIP",
+        "phones": [
+            {
+                "phone": "1234567",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@gmail.com",
+        "birthday": "1992-12-30",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "77005554433",
+                "type": "home"
+            },
+            {
+                "phone": "88005553535",
+                "type": "work"
+            }
+        ]
+    }
+]
